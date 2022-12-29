@@ -41,6 +41,7 @@
   justify-content: flex-end;
   align-items: center;
 }
+
 .app__navbar-login a {
   margin: 0 1rem;
   text-decoration: none;
@@ -54,7 +55,7 @@
 .app__navbar-login div {
   width: 1px;
   height: 30px;
-  background-color: var(--color-grey);
+  background: var(--color-grey);
 }
 
 .app__navbar-smallscreen {
@@ -69,6 +70,7 @@
   height: 100vh;
   background: var(--color-black);
   transition: 0.5s ease;
+
   flex-direction: column;
   z-index: 5;
 }
@@ -100,7 +102,7 @@
   color: var(--color-white);
 }
 
-@media screen and (max-width: 2000px) {
+@media screen and (min-width: 2000px) {
   .app__navbar-logo img {
     width: 210px;
   }
@@ -110,6 +112,7 @@
   .app__navbar-links {
     display: none;
   }
+
   .app__navbar-smallscreen {
     display: flex;
   }

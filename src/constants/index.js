@@ -1,3 +1,5 @@
-export { default as data } from './data'
-export { default as images } from './images'
-export { default as meal } from '../assets/video/meal.mp4meal.mp4'
+import images from './images'
+import meal from '../assets/meal.mp4'
+import data from './data'
+
+export { images, meal, data }

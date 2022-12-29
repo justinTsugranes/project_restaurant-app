@@ -1,9 +1,21 @@
-export { default as AboutUs } from './AboutUs/AboutUs'
-export { default as Chef } from './Chef/Chef'
-export { default as FindUs } from './Findus/FindUs'
-export { default as Footer } from './Footer/Footer'
-export { default as Gallery } from './Gallery/Gallery'
-export { default as Header } from './Header/Header'
-export { default as Intro } from './Intro/Intro'
-export { default as Laurels } from './Laurels/Laurels'
-export { default as SpecialMenu } from './Menu/SpecialMenu'
+import AboutUs from './AboutUs/AboutUs'
+import Chef from './Chef/Chef'
+import FindUs from './Findus/FindUs'
+import Footer from './Footer/Footer'
+import Gallery from './Gallery/Gallery'
+import Header from './Header/Header'
+import Intro from './Intro/Intro'
+import Laurels from './Laurels/Laurels'
+import SpecialMenu from './Menu/SpecialMenu'
+
+export {
+  AboutUs,
+  Chef,
+  FindUs,
+  Footer,
+  Gallery,
+  Header,
+  Intro,
+  Laurels,
+  SpecialMenu,
+}
