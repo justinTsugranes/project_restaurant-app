@@ -46,13 +46,9 @@ A React app frontend for a fine dining restaurant.
 
 [![Project Screen Shot][project-screenshot]][project-url] [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url]
 
-<!-- TODO: ADD LONG PROJECT DESCRIPTION -->
-
-<!-- LONG_PROJECT_DESCRIPTION -->
+A mobile-first web application created for a fictitious fine dining establishment. The app was created with React and includes several React Icons for a visually appealing and intuitive user experience. Users can browse the restaurant's menu, make reservations, and learn more about the restaurant's history and mission through the app, which is hosted on Netlify. The app also includes a contact form where users can contact the restaurant with questions or special requests. Overall, the design aims to provide users with a simple and seamless way to discover and interact with the restaurant
 
 _I'd love to hear any feedback or just thoughts. Feel free to reach out at my contact info below. Cheers!_
-
-<!-- TODO: UNCOMMENT APPLICABLE TECH -->
 
 ### Stack
 
